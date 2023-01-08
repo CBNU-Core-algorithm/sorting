@@ -12,6 +12,5 @@ for i in range(num):
     if R > max_r:
         max_r = R
         max_i = i
-print(tm_list[max_i])
 
 
